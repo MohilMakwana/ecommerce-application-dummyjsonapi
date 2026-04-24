@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-CZp7OW7F.js";var t=e();function n({children:e,className:n=``}){return(0,t.jsx)(`main`,{className:`flex-1 w-full flex flex-col mx-auto max-w-7xl px-4 sm:px-6 py-8 ${n}`,children:e})}export{n as t};

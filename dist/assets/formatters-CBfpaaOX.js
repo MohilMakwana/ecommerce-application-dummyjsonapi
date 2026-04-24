@@ -1,0 +1,1 @@
+function e(e){return new Intl.NumberFormat(`en-US`,{style:`currency`,currency:`USD`}).format(e)}function t(e,t=60){return e?e.length>t?e.slice(0,t)+`...`:e:``}function n(){return`ORD-`+Date.now().toString(36).toUpperCase()}export{n,t as r,e as t};
